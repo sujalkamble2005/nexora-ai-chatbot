@@ -20,11 +20,6 @@ https://your-chatbot-url.com
 - JavaScript
 - AI API Integration
 
-## 📸 Screenshots
-Add screenshots of your chatbot here.
 
-## 👨‍💻 Author
-Sujal Kamble
 
-## 📄 License
-MIT License
+
